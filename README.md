@@ -11,4 +11,4 @@ C:\Users\USERNAME\AppData\Roaming\Sublime Text 2\Packages\User\
 
 ### Special Thanks
 
-This collection includes repo's from: [chantastic's snippets-sublime-toolkitv5](https://github.com/chantastic/snippets-sublime-toolkitv5) and [zquintana's SublimeMivaScript](https://github.com/zquintana/SublimeMivaScript)
+This collection includes repos from: [chantastic's snippets-sublime-toolkitv5](https://github.com/chantastic/snippets-sublime-toolkitv5) and [zquintana's SublimeMivaScript](https://github.com/zquintana/SublimeMivaScript)
